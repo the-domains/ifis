@@ -1,0 +1,28 @@
+name: IFiS
+favicon: null
+layout_spectrum: 0.2160233522299677
+typography_spectrum: 0.3757485505193472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0976052638143301
+  lightness: 0.46213809098117054
+  saturation: 0.48641451564617455
+  rhythmicContrast: 0.19680290832184255
+purpose: []
